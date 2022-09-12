@@ -1,16 +1,40 @@
-### Hi there 👋
+## Hello, I'm Wang Ziwen
 
-<!--
-**Stephen-wzw/Stephen-wzw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me 👋
 
-Here are some ideas to get you started:
+- 🔭 I’m currently a student at Wuhan University of Technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning front-end web development.
+
+- 🤔 I’m looking for a job as a front-end development engineer.
+
+- 📫 How to reach me: wzw15292257101@163.com
+
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&vCenter=true&width=600&lines=Enquanto+houver+1%25+de+chance%2Cteremo+99%25+f%C3%A9.)](https://git.io/typing-svg)
+
+| <a href="https://github.com/Stephen-wzw/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Stephen-wzw&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Stephen-wzw's github stats" /></a> | <a href="https://github.com/Stephen-wzw/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stephen-wzw&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+#### Top Repositories
+
+
+<a href="https://github.com/Stephen-wzw/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Stephen-wzw&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/Stephen-wzw/Stephen-wzw.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Stephen-wzw&repo=anuraghazra.github.io&theme=buefy" />
+</a>
+
+<br />
+<br />
+
+<a href="https://twitter.com/anuraghazru">
+  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://codesandbox.io/u/anuraghazra">
+  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+</a>
