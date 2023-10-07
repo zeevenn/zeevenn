@@ -2,9 +2,8 @@
 
 ### About me 👋
 
-- 🔭 I’m currently a student at Wuhan University of Technology.
-- 🌱 I’m currently learning front-end web development.
-<!-- - 🤔 I’m looking for a job as a front-end development engineer. -->
+- 🔭 I’m currently working on Yuanfudao.
+- 🌱 Continuously learn front-end development.
 - 📫 How to reach me: wzw15292257101@163.com
 - 💼 My Blog: [here](https://dribble-njr.github.io/blog/)
 
