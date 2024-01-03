@@ -2,7 +2,6 @@
 
 ### About me 👋
 
-- 🔭 I’m currently working on Yuanfudao.
 - 🌱 Continuously learn front-end development.
 - 📫 How to reach me: wzw15292257101@163.com
 - 💼 My Blog: [here](https://dribble-njr.github.io/blog/)
