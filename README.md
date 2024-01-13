@@ -1,4 +1,4 @@
-## Hello, I'm Wang Ziwen
+## Hello, I'm Ziwen Wang
 
 ### About me 👋
 
