@@ -1,6 +1,4 @@
-## Hello, I'm Ziwen Wang
-
-### About me 👋
+## About me 👋
 
 - 🌱 Continuously learn front-end development.
 - 📫 How to reach me: wzw15292257101@163.com
