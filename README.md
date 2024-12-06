@@ -11,5 +11,5 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=539BF5&background=4184E41A&vCenter=true&multiline=true&random=false&width=550&height=40&lines=Enquanto+houver+1%25+de+chance%2C+teremo+99%25+f%C3%A9.)](https://git.io/typing-svg)
 
-| <a href="https://github.com/dribble-njr/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dribble-njr&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent" alt="dribble-njr's github stats" /></a> | <a href="https://github.com/dribble-njr/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dribble-njr&layout=compact&hide_border=true&theme=transparent" /></a> |
+| <a href="https://github.com/dribble-njr/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dribble-njr&show_icons=true&hide_border=true&theme=transparent" alt="dribble-njr's github stats" /></a> | <a href="https://github.com/dribble-njr/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dribble-njr&layout=compact&hide_border=true&theme=transparent" /></a> |
 | ------------- | ------------- |
