@@ -13,3 +13,6 @@
 
 | <a href="https://github.com/dribble-njr/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dribble-njr&show_icons=true&hide_border=true&theme=transparent" alt="dribble-njr's github stats" /></a> | <a href="https://github.com/dribble-njr/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dribble-njr&layout=compact&hide_border=true&theme=transparent" /></a> |
 | ------------- | ------------- |
+
+
+<img src="https://raw.githubusercontent.com/dribble-njr/dribble-njr/output/snake.svg" alt="Snake animation" />
