@@ -18,7 +18,7 @@
   <code><img height="40" src="https://api.iconify.design/logos:nextjs-icon.svg" alt="nextjs"></code>&nbsp;
 </div>
 
-<div style="margin: 2px;"/>
+<br />
 
 <div align="center">
   <code><img height="40" src="https://api.iconify.design/devicon:git.svg"></code>&nbsp;
@@ -32,7 +32,7 @@
   <code><img height="40" src="https://api.iconify.design/skill-icons:docker.svg"></code>&nbsp;
 </div>
 
-<div style="margin: 12px;"/>
+<br/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=539BF5&background=4184E41A&vCenter=true&multiline=true&random=false&width=550&height=40&lines=Enquanto+houver+1%25+de+chance%2C+teremo+99%25+f%C3%A9.)](https://git.io/typing-svg)
 
