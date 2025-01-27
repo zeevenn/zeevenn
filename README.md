@@ -7,13 +7,12 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <code><img height="40" src="https://api.iconify.design/vscode-icons:file-type-html.svg" alt="html"></code>&nbsp;
-  <code><img height="40" src="https://api.iconify.design/vscode-icons:file-type-css.svg" alt="css"></code>&nbsp;
+  <code><img height="40" src="https://api.iconify.design/skill-icons:tailwindcss-dark.svg" alt="tailwindcss"></code>&nbsp;
   <code><img height="40" src="https://api.iconify.design/skill-icons:javascript.svg" alt="js"></code>&nbsp;
   <code><img height="40" src="https://api.iconify.design/skill-icons:typescript.svg"></code>&nbsp;
-  <code><img height="40" src="https://api.iconify.design/skill-icons:nodejs-dark.svg"></code>&nbsp;
   <code><img height="40" src="https://api.iconify.design/devicon:react.svg" alt="react"></code>&nbsp;
   <code><img height="40" src="https://api.iconify.design/devicon:vuejs.svg" alt="vue"></code>&nbsp;
+  <code><img height="40" src="https://cdn.simpleicons.org/expo/000020/edeef0" alt="expo"></code>&nbsp;
   <code><img height="40" src="https://api.iconify.design/skill-icons:nestjs-dark.svg"></code>&nbsp;
   <code><img height="40" src="https://api.iconify.design/logos:nextjs-icon.svg" alt="nextjs"></code>&nbsp;
 </div>
@@ -25,7 +24,6 @@
   <code><img height="40" src="https://api.iconify.design/devicon:vscode.svg"></code>&nbsp;
   <code><img height="40" src="https://api.iconify.design/skill-icons:vite-dark.svg"></code>&nbsp;
   <code><img height="40" src="https://api.iconify.design/devicon:webpack.svg" alt="webpack"></code>&nbsp;
-  <code><img height="40" src="https://api.iconify.design/skill-icons:github-dark.svg"></code>&nbsp;
   <code><img height="40" src="https://api.iconify.design/devicon:githubactions.svg" alt="github action"></code>&nbsp;
   <code><img height="40" src="https://api.iconify.design/devicon:nginx.svg"></code>&nbsp;
   <code><img height="40" src="https://api.iconify.design/skill-icons:prisma.svg"></code>&nbsp;
