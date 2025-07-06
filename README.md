@@ -7,27 +7,27 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <code><img height="40" src="https://api.iconify.design/skill-icons:tailwindcss-dark.svg" alt="tailwindcss"></code>&nbsp;
-  <code><img height="40" src="https://api.iconify.design/skill-icons:javascript.svg" alt="js"></code>&nbsp;
-  <code><img height="40" src="https://api.iconify.design/skill-icons:typescript.svg"></code>&nbsp;
-  <code><img height="40" src="https://api.iconify.design/devicon:react.svg" alt="react"></code>&nbsp;
-  <code><img height="40" src="https://api.iconify.design/devicon:vuejs.svg" alt="vue"></code>&nbsp;
-  <code><img height="40" src="https://cdn.simpleicons.org/expo/000020/edeef0" alt="expo"></code>&nbsp;
-  <code><img height="40" src="https://api.iconify.design/skill-icons:nestjs-dark.svg"></code>&nbsp;
-  <code><img height="40" src="https://api.iconify.design/logos:nextjs-icon.svg" alt="nextjs"></code>&nbsp;
+  <code><img height="40" src="https://api.iconify.design/skill-icons:tailwindcss-dark.svg" alt="tailwindcss" style="height: 40px"></code>&nbsp;
+  <code><img height="40" src="https://api.iconify.design/skill-icons:javascript.svg" alt="js" style="height: 40px"></code>&nbsp;
+  <code><img height="40" src="https://api.iconify.design/skill-icons:typescript.svg" style="height: 40px"></code>&nbsp;
+  <code><img height="40" src="https://api.iconify.design/devicon:react.svg" alt="react" style="height: 40px"></code>&nbsp;
+  <code><img height="40" src="https://api.iconify.design/devicon:vuejs.svg" alt="vue" style="height: 40px"></code>&nbsp;
+  <code><img height="40" src="https://cdn.simpleicons.org/expo/000020/edeef0" alt="expo" style="height: 40px"></code>&nbsp;
+  <code><img height="40" src="https://api.iconify.design/skill-icons:nestjs-dark.svg" style="height: 40px"></code>&nbsp;
+  <code><img height="40" src="https://api.iconify.design/logos:nextjs-icon.svg" alt="nextjs" style="height: 40px"></code>&nbsp;
 </div>
 
 <br />
 
 <div align="center">
-  <code><img height="40" src="https://api.iconify.design/devicon:git.svg"></code>&nbsp;
-  <code><img height="40" src="https://api.iconify.design/devicon:vscode.svg"></code>&nbsp;
-  <code><img height="40" src="https://api.iconify.design/skill-icons:vite-dark.svg"></code>&nbsp;
-  <code><img height="40" src="https://api.iconify.design/devicon:webpack.svg" alt="webpack"></code>&nbsp;
-  <code><img height="40" src="https://api.iconify.design/devicon:githubactions.svg" alt="github action"></code>&nbsp;
-  <code><img height="40" src="https://api.iconify.design/devicon:nginx.svg"></code>&nbsp;
-  <code><img height="40" src="https://api.iconify.design/skill-icons:prisma.svg"></code>&nbsp;
-  <code><img height="40" src="https://api.iconify.design/skill-icons:docker.svg"></code>&nbsp;
+  <code><img height="40" src="https://api.iconify.design/devicon:git.svg" style="height: 40px"></code>&nbsp;
+  <code><img height="40" src="https://api.iconify.design/devicon:vscode.svg" style="height: 40px"></code>&nbsp;
+  <code><img height="40" src="https://api.iconify.design/skill-icons:vite-dark.svg" style="height: 40px"></code>&nbsp;
+  <code><img height="40" src="https://api.iconify.design/devicon:webpack.svg" alt="webpack" style="height: 40px"></code>&nbsp;
+  <code><img height="40" src="https://api.iconify.design/devicon:githubactions.svg" alt="github action" style="height: 40px"></code>&nbsp;
+  <code><img height="40" src="https://api.iconify.design/devicon:nginx.svg" style="height: 40px"></code>&nbsp;
+  <code><img height="40" src="https://api.iconify.design/skill-icons:prisma.svg" style="height: 40px"></code>&nbsp;
+  <code><img height="40" src="https://api.iconify.design/skill-icons:docker.svg" style="height: 40px"></code>&nbsp;
 </div>
 
 <br/>
