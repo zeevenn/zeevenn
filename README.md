@@ -4,6 +4,9 @@
 - 💼 My Blog: [here](https://zeevenn.github.io/blog/)
 - 👋 Hobbies: football ⚽
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## 🛠️ Tech Stack
 
 <div align="center">
