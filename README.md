@@ -5,9 +5,9 @@
 - 👋 Hobbies: football ⚽
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%2023%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-113-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-104-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
 
@@ -17,11 +17,11 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               8 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   35.79 % 
-JSON                     6 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   26.85 % 
-JavaScript               2 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-Swift                    1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
-YAML                     1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+TypeScript               12 hrs 40 mins      ████████████░░░░░░░░░░░░░   46.39 % 
+JSON                     6 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
+JavaScript               2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+YAML                     1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+Swift                    1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -37,7 +37,7 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 11/09/2025 17:13:52 UTC
+ Last Updated on 12/09/2025 17:14:14 UTC
 <!--END_SECTION:waka-->
 
 ## 🛠️ Tech Stack
