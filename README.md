@@ -5,9 +5,24 @@
 - 👋 Hobbies: football ⚽
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-105-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%2029%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+TypeScript               11 hrs 46 mins      ███████████████░░░░░░░░░░   60.01 % 
+JSON                     3 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
+Markdown                 1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+Swift                    57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+Objective-C++            47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+```
 
 **I Mostly Code in TypeScript** 
 
@@ -22,7 +37,7 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2025 17:14:10 UTC
+ Last Updated on 17/09/2025 17:20:45 UTC
 <!--END_SECTION:waka-->
 
 ## 🛠️ Tech Stack
