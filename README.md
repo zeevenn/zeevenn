@@ -5,14 +5,29 @@
 - 👋 Hobbies: football ⚽
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-61%20hrs%2027%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+TypeScript               11 hrs 16 mins      █████████████░░░░░░░░░░░░   53.41 % 
+JSON                     3 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+JavaScript               2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+Markdown                 1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+Less                     1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               20 repos            █████████████░░░░░░░░░░░░   52.63 % 
+TypeScript               19 repos            ████████████░░░░░░░░░░░░░   50.00 % 
 JavaScript               7 repos             █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
 Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
 Vue                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
@@ -22,7 +37,7 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/09/2025 17:17:01 UTC
+ Last Updated on 24/09/2025 17:18:39 UTC
 <!--END_SECTION:waka-->
 
 ## 🛠️ Tech Stack
