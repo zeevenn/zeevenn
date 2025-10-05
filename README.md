@@ -11,6 +11,19 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+TypeScript               8 hrs 53 mins       ██████████████░░░░░░░░░░░   56.44 % 
+Vue.js                   3 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
+JSON                     1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
+Less                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+TSConfig                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -24,7 +37,7 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/10/2025 17:13:26 UTC
+ Last Updated on 05/10/2025 17:17:18 UTC
 <!--END_SECTION:waka-->
 
 ## 🛠️ Tech Stack
