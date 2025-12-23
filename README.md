@@ -68,7 +68,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=539BF5&background=4184E41A&vCenter=true&multiline=true&random=false&width=550&height=40&lines=Enquanto+houver+1%25+de+chance%2C+teremo+99%25+f%C3%A9.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=539BF5&vCenter=true&multiline=true&random=false&lines=1%25+de+chance%2C+99%25+de+f%C3%A9.)](https://git.io/typing-svg)
 
 | <a href="https://github.com/zeevenn/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zeevenn&show_icons=true&hide_border=true&theme=transparent" alt="zeevenn's github stats" /></a> | <a href="https://github.com/zeevenn/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeevenn&layout=compact&hide_border=true&theme=transparent" /></a> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
