@@ -9,7 +9,7 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.33%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -37,7 +37,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2025 17:10:48 UTC
+ Last Updated on 01/01/2026 17:16:19 UTC
 <!--END_SECTION:waka-->
 
 ## 🛠️ Tech Stack
