@@ -5,11 +5,11 @@
 - 👋 Hobbies: football ⚽
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-393%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-400%20hrs%2019%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.30%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.25%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -17,11 +17,11 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               15 hrs 5 mins       ████████████████░░░░░░░░░   63.68 % 
-JSON                     2 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-Markdown                 2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-Java                     1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
-Lua                      47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+TypeScript               15 hrs 29 mins      ████████████████░░░░░░░░░   63.43 % 
+JSON                     2 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+Markdown                 2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+Java                     1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+Lua                      47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -37,7 +37,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/01/2026 17:27:47 UTC
+ Last Updated on 31/01/2026 17:14:31 UTC
 <!--END_SECTION:waka-->
 
 ## 🛠️ Tech Stack
