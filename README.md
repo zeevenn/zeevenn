@@ -5,7 +5,7 @@
 - 👋 Hobbies: football ⚽
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-463%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-467%20hrs%2039%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -17,27 +17,27 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               4 hrs 54 mins       ██████████████░░░░░░░░░░░   54.35 % 
-JSON                     1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
-Text                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
-TSConfig                 28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
-JavaScript               27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+TypeScript               6 hrs 22 mins       ████████████░░░░░░░░░░░░░   47.90 % 
+JSON                     2 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
+Lua                      1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+Text                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+TSConfig                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               19 repos            ███████████░░░░░░░░░░░░░░   44.19 % 
-JavaScript               9 repos             █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
-Vue                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+TypeScript               19 repos            ███████████░░░░░░░░░░░░░░   43.18 % 
+JavaScript               9 repos             █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
+Vue                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 ```
 
 
 
 
- Last Updated on 26/02/2026 17:46:30 UTC
+ Last Updated on 27/02/2026 17:29:51 UTC
 <!--END_SECTION:waka-->
 
 ## 🛠️ Tech Stack
