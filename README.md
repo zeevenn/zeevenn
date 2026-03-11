@@ -5,11 +5,11 @@
 - 👋 Hobbies: football ⚽
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-484%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-489%20hrs%2054%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.45%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.48%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -17,27 +17,27 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               3 hrs 51 mins       █████████████░░░░░░░░░░░░   50.56 % 
-JSON                     1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
-Markdown                 45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
-Java                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-Lua                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+TypeScript               4 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   38.16 % 
+Java                     2 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   22.85 % 
+JSON                     1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
+Lua                      50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+Markdown                 41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               19 repos            ███████████░░░░░░░░░░░░░░   42.22 % 
-JavaScript               9 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Vue                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+TypeScript               19 repos            ██████████░░░░░░░░░░░░░░░   41.30 % 
+JavaScript               9 repos             █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
+Vue                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 ```
 
 
 
 
- Last Updated on 10/03/2026 17:51:04 UTC
+ Last Updated on 11/03/2026 17:48:00 UTC
 <!--END_SECTION:waka-->
 
 ## 🛠️ Tech Stack
