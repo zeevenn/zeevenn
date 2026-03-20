@@ -9,7 +9,7 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.57%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.48%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -17,11 +17,11 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               7 hrs 6 mins        ███████████░░░░░░░░░░░░░░   44.32 % 
-Java                     5 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   36.98 % 
-Markdown                 1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-Bash                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-YAML                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+TypeScript               6 hrs 9 mins        █████████████░░░░░░░░░░░░   52.28 % 
+Java                     3 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   28.47 % 
+Markdown                 1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+YAML                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+SQL                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -37,7 +37,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 19/03/2026 17:53:52 UTC
+ Last Updated on 20/03/2026 17:48:03 UTC
 <!--END_SECTION:waka-->
 
 ## 🛠️ Tech Stack
