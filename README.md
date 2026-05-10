@@ -7,9 +7,9 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-511%20hrs%2036%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.72%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.73%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -23,17 +23,17 @@ No Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               20 repos            ███████████░░░░░░░░░░░░░░   44.44 % 
-JavaScript               9 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Vue                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+TypeScript               21 repos            ███████████░░░░░░░░░░░░░░   45.65 % 
+JavaScript               9 repos             █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
+Vue                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 ```
 
 
 
 
- Last Updated on 09/05/2026 17:40:27 UTC
+ Last Updated on 10/05/2026 17:45:22 UTC
 <!--END_SECTION:waka-->
 
 ## 🛠️ Tech Stack
