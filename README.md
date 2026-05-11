@@ -9,7 +9,7 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.73%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.60%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -33,7 +33,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/05/2026 17:45:22 UTC
+ Last Updated on 11/05/2026 18:44:42 UTC
 <!--END_SECTION:waka-->
 
 ## 🛠️ Tech Stack
