@@ -11,7 +11,7 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.53%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.02%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -31,17 +31,17 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               21 repos            █████████████░░░░░░░░░░░░   51.22 % 
+TypeScript               22 repos            █████████████░░░░░░░░░░░░   53.66 % 
 JavaScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
 Vue                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
 Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 ```
 
 
 
 
- Last Updated on 13/09/2026 18:44:36 UTC
+ Last Updated on 14/09/2026 20:55:16 UTC
 <!--END_SECTION:waka-->
 
 ## 🛠️ Tech Stack
