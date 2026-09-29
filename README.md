@@ -9,7 +9,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%2032%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.25%20million%20lines%20of%20code-blue?style=flat)
 
@@ -31,17 +31,17 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               22 repos            █████████████░░░░░░░░░░░░   53.66 % 
-JavaScript               9 repos             █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
-Vue                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+TypeScript               22 repos            ██████████████░░░░░░░░░░░   55.00 % 
+JavaScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Vue                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 ```
 
 
 
 
- Last Updated on 28/09/2026 22:19:27 UTC
+ Last Updated on 29/09/2026 21:13:21 UTC
 <!--END_SECTION:waka-->
 
 ## 🛠️ Tech Stack
