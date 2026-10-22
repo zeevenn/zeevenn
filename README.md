@@ -33,15 +33,15 @@ No AI Coding Activity Tracked This Week
 ```text
 TypeScript               22 repos            █████████████░░░░░░░░░░░░   53.66 % 
 JavaScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
+Lua                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
 Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 ```
 
 
 
 
- Last Updated on 21/10/2026 20:45:34 UTC
+ Last Updated on 22/10/2026 20:37:03 UTC
 <!--END_SECTION:waka-->
 
 ## 🛠️ Tech Stack
